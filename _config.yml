@@ -9,7 +9,7 @@ github_username:  jkarakas
 
 # Build settings
 #markdown: kramdown
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
 exclude:
   - Gemfile
   - Gemfile.lock
