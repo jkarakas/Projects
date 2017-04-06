@@ -1,0 +1,15 @@
+title: Data Science Projects
+author: Ioannis K Breier
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Projects based on the Udacity Data Analyst Nanodegree.
+#baseurl: "/minima"
+twitter_username: ioannisbreier
+github_username:  jkarakas
+
+# Build settings
+#markdown: kramdown
+theme: jekyll-theme-dinky
+exclude:
+  - Gemfile
+  - Gemfile.lock
