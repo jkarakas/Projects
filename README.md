@@ -14,8 +14,13 @@
 
 ## Deep Learning
 
+#### [Bike Rental Ridership Prediction with a Deep Neural Network in Python]( https://jkarakas.github.io/Bike-Rental-Ridership-Prediction-with-a-Deep-Neural-Network-in-Python/Bike-Rental-Ridership-Prediction-with-a-Deep-Neural-Network-in-Python.html)
+
+---
+
 
 #### [CIFAR10 Image Classification with Tensor Flow](https://jkarakas.github.io/Image_Classification/dlnd_image_classification.html)
+
 ---
 
 
