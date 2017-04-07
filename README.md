@@ -19,7 +19,7 @@
 ---
 
 
-#### [CIFAR10 Image Classification with Tensor Flow](https://jkarakas.github.io/Image_Classification/dlnd_image_classification.html)
+#### [CIFAR10 Image Classification with a CNN in Tensor Flow](https://jkarakas.github.io/Image_Classification/dlnd_image_classification.html)
 
 ---
 
