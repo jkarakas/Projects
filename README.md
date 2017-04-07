@@ -2,7 +2,7 @@
 
 
 #### [Statistical Analysis of the Stroop effect](https://jkarakas.github.io/Statistical-Analysis-of-the-Stroop-effect/P1-Test-a-Perceptual-Phenomenon.html)
-![](Test-a-Perceptual-Phenomenon-stitched.jpg)
+![](Test-a-Perceptual-Phenomenon-stitched.jpg/200px-Test-a-Perceptual-Phenomenon-stitched.jpg)
 
 ---
 
