@@ -19,8 +19,12 @@
 ---
 
 
-##### [CIFAR10 Image Classification with a CNN in Tensor Flow](https://jkarakas.github.io/Image_Classification/dlnd_image_classification.html)
+##### [Image Classification with a Convolutional Neural Network in Tensor Flow usng the CIFAR10 Image Dataset](https://jkarakas.github.io/Image_Classification/dlnd_image_classification.html)
 
 ---
 
+##### [TV Script Generation with a Recurrent Neural Network in Tensor Flow trained using the Simpsons Episodes Dataset](https://jkarakas.github.io/Projects/Deep-Learning/Generate-a-TV-Script-with-a-Recurrent-Neural-Network/dlnd_tv_script_generation.html)
+
+
+---
 
