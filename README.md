@@ -1,14 +1,20 @@
-## Data Analysis
+## Data Wrangling and SQL Querying
 
+##### [Wrangle OpenStreetMaps with SQL](https://jkarakas.github.io/Wrangle-OpenStreetMaps-Data-with-SQL/)
 
-##### [Statistical Analysis of the Stroop effect](https://jkarakas.github.io/Statistical-Analysis-of-the-Stroop-effect/P1-Test-a-Perceptual-Phenomenon.html)
-<img src="Test-a-Perceptual-Phenomenon-stitched.jpg" width="300" height="70" />
+<br>
 
----
+## Exploratory Data Analysis
 
 ##### [Exploratory Analysis of the Titanic Dataset](https://jkarakas.github.io/Exploratory-Analysis-of-the-Titanic-Dataset/)
 ![](stitched.jpg)
 
+<br>
+
+## Statistical Tests
+
+##### [Statistical Analysis of the Stroop effect](https://jkarakas.github.io/Statistical-Analysis-of-the-Stroop-effect/P1-Test-a-Perceptual-Phenomenon.html)
+<img src="Test-a-Perceptual-Phenomenon-stitched.jpg" width="300" height="70" />
 
 <br>
 
