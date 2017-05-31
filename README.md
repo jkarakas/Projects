@@ -1,20 +1,3 @@
-## Data Wrangling and SQL Querying
-
-##### [Wrangle OpenStreetMaps with SQL](https://jkarakas.github.io/Wrangle-OpenStreetMaps-Data-with-SQL/)
-
-<br>
-
-## Exploratory Data Analysis
-
-##### [Exploratory Analysis of the Titanic Dataset](https://jkarakas.github.io/Exploratory-Analysis-of-the-Titanic-Dataset/)
-
-<br>
-
-## Statistical Tests
-
-##### [Statistical Analysis of the Stroop effect](https://jkarakas.github.io/Statistical-Analysis-of-the-Stroop-effect/P1-Test-a-Perceptual-Phenomenon.html)
-
-<br>
 
 ## Deep Learning
 
@@ -31,4 +14,26 @@
 
 
 ---
+
+<br>
+
+## Data Wrangling and SQL Querying
+
+##### [Wrangle OpenStreetMaps with SQL](https://jkarakas.github.io/Wrangle-OpenStreetMaps-Data-with-SQL/)
+
+<br>
+
+## Exploratory Analysis
+
+##### [Exploratory Analysis of the Titanic Dataset](https://jkarakas.github.io/Exploratory-Analysis-of-the-Titanic-Dataset/)
+
+<br>
+
+## Statistical Analysis
+
+##### [Statistical Analysis of the Stroop effect](https://jkarakas.github.io/Statistical-Analysis-of-the-Stroop-effect/P1-Test-a-Perceptual-Phenomenon.html)
+
+
+
+
 
