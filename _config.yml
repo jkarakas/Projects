@@ -2,7 +2,7 @@
 title:  "Projects"
 description: "Ioannis Karakasoglou Breier"
 theme: jekyll-theme-slate
-thumbnail: 'fa-area-chart'
+thumbnail: '/projects.png'
 exclude:
   - Gemfile
   - Gemfile.lock
