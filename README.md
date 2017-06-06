@@ -1,3 +1,7 @@
+---
+share-img: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png"
+bigimg: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png"
+---
 
 ## Deep Learning
 
