@@ -2,7 +2,8 @@
 title:  "Projects"
 description: "Ioannis Karakasoglou Breier"
 theme: jekyll-theme-cayman
-share-image: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png"
+share-img: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png"
+bigimg: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png"
 exclude:
   - Gemfile
   - Gemfile.lock
