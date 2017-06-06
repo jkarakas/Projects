@@ -1,5 +1,5 @@
 ---
-share-img: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png"
+share-img: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png",3
 bigimg: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png"
 ---
 
