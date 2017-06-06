@@ -1,8 +1,3 @@
----
-share-img: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png",3
-bigimg: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png"
----
-
 ## Deep Learning
 
 ##### [Bike Rental Ridership Prediction with a Simple Neural Network in Python]( https://jkarakas.github.io/Bike-Rental-Ridership-Prediction-with-a-Deep-Neural-Network-in-Python/Bike-Rental-Ridership-Prediction-with-a-Deep-Neural-Network-in-Python.html)
