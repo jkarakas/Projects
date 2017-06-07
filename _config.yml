@@ -4,6 +4,7 @@ description: "A Collection of Personal and Educational Data Science Projects"
 theme: jekyll-theme-cayman
 share-img: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png"
 bigimg: "//docs.microsoft.com/en-us/azure/machine-learning/media/data-science-process-overview/tdsp-lifecycle.png"
+google_analytics: "UA-100574901-1"
 exclude:
   - Gemfile
   - Gemfile.lock
