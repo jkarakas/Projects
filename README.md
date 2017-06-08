@@ -9,7 +9,7 @@
 
 ---
 
-##### [TV Script Generation with a Recurrent Neural Network in Tensor Flow using the Simpsons Episodes Dataset](https://github.com/jkarakas/Projects/Deep-Learning/Generate-a-TV-Script-with-a-Recurrent-Neural-Network/dlnd_tv_script_generation)
+##### [TV Script Generation with a Recurrent Neural Network in Tensor Flow using the Simpsons Episodes Dataset](https://github.com/jkarakas/TV_Script-_Generation)
 
 ---
 
