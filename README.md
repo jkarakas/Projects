@@ -23,15 +23,28 @@
 
 <br>
 
+## Machine Learning
+
+##### [Identifying Fraud from Enron Emails](https://github.com/jkarakas/Identify-Fraud-from-Enron-Email)
+
+<br>
+
+---
+
 ## Data Wrangling and SQL Querying
 
 ##### [Wrangle OpenStreetMaps with SQL](https://jkarakas.github.io/Wrangle-OpenStreetMaps-Data-with-SQL/)
+
 
 <br>
 
 ## Exploratory Analysis
 
 ##### [Exploratory Analysis of the Titanic Dataset](https://jkarakas.github.io/Exploratory-Analysis-of-the-Titanic-Dataset/)
+
+---
+
+##### [Explore and Summarize E-commerce Data with R](https://github.com/jkarakas/Explore-and-Summarize-Data)
 
 <br>
 
