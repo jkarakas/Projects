@@ -19,7 +19,6 @@
 
 ##### [Generate New Faces Using Deep Convolutional Generative Adversarial Networks](https://github.com/jkarakas/Generate-New-Faces-With-DCGAN)
 
----
 
 <br>
 
@@ -29,7 +28,6 @@
 
 <br>
 
----
 
 ## Data Wrangling and SQL Querying
 
