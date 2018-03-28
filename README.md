@@ -50,6 +50,11 @@
 
 ##### [Statistical Analysis of the Stroop effect](https://jkarakas.github.io/Statistical-Analysis-of-the-Stroop-effect/P1-Test-a-Perceptual-Phenomenon.html)
 
+<br>
+
+## Data Visualization
+
+##### [The European life expectancy story visualized with Tableau](https://public.tableau.com/profile/ioanniskbreier#!/vizhome/who_life_expect_story_final/EuropeanStory)
 
 
 
