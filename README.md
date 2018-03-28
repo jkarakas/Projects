@@ -24,14 +24,14 @@
 
 ## Machine Learning
 
-##### [Identifying Fraud from Enron Emails](https://github.com/jkarakas/Identify-Fraud-from-Enron-Email)
+##### [Identifying Fraud from Enron Emails with scikit learn](https://github.com/jkarakas/Identify-Fraud-from-Enron-Email)
 
 <br>
 
 
 ## Data Wrangling and SQL Querying
 
-##### [Wrangle OpenStreetMaps with SQL](https://jkarakas.github.io/Wrangle-OpenStreetMaps-Data-with-SQL/)
+##### [Wrangle and Query OpenStreetMaps with Python and SQL](https://jkarakas.github.io/Wrangle-OpenStreetMaps-Data-with-SQL/)
 
 
 <br>
