@@ -1,6 +1,6 @@
 ## Deep Learning
 
-##### [A Image classifying and predicting deep tranfer learning application using Pytorch]( https://github.com/jkarakas/aipnd-project)
+##### [Image classifying and prediction application usind Deep Tranfer Learning  and Pytorch]( https://github.com/jkarakas/aipnd-project)
 
 ---
 
