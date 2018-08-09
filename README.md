@@ -32,6 +32,10 @@
 
 ##### [Identifying Fraud from Enron Emails with scikit learn](https://github.com/jkarakas/Identify-Fraud-from-Enron-Email)
 
+---
+
+##### [Segmenting Demographic Customer Data using PCA and KMeans](https://jkarakas.github.io/Customer-Demographics-Segmentation-/Customer_Segmentation.html)
+
 <br>
 
 
