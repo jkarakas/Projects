@@ -4,8 +4,6 @@
 
 ---
 
-<br>
-
 ##### [Bike Rental Ridership Prediction with a Simple Neural Network in Python]( https://github.com/jkarakas/Bike-Rental-Ridership-Prediction-with-a-Deep-Neural-Network-in-Python)
 
 ---
@@ -30,7 +28,7 @@
 
 ## Machine Learning
 
-##### [Improving Disaster Response with an NLP and Data Pipeline app, using NLTK, Scikit-learn and Flask](https://github.com/jkarakas/Disaster-Response-Pipeline)
+##### [Improving Disaster Response with an NLP Pipeline appication, using NLTK, Scikit-learn and Flask](https://github.com/jkarakas/Disaster-Response-Pipeline)
 
 ---
 
