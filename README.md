@@ -30,11 +30,16 @@
 
 ## Machine Learning
 
-##### [Identifying Fraud from Enron Emails with scikit learn](https://github.com/jkarakas/Identify-Fraud-from-Enron-Email)
+##### [Improving Disaster Response with an NLP and Data Pipeline app, using NLTK, Scikit-learn and Flask](https://github.com/jkarakas/Disaster-Response-Pipeline)
 
 ---
 
 ##### [Segmenting Demographic Customer Data using PCA and KMeans](https://jkarakas.github.io/Customer-Demographics-Segmentation-/Customer_Segmentation.html)
+
+---
+
+##### [Identifying Fraud from Enron Emails with Scikit-learn](https://github.com/jkarakas/Identify-Fraud-from-Enron-Email)
+
 
 <br>
 
